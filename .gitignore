@@ -1,0 +1,13 @@
+*.txt
+
+/Making_Dataset
+/Comparisons
+
+*.DS_Store
+
+*.ipynb_checkpoints
+
+*/__pycache__/
+
+
+
