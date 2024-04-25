@@ -98,31 +98,9 @@ Since all the videos are captured by surveillance cameras in public places, many
 
 
 
-
 ### Download
 
-For downloading the released dataset, you have to agree with the license above by default.
-
-- Baidu Cloud
-
-  - link: https://pan.baidu.com/s/1bGknPlnJUtM32D8XZnUI0w 	
-
-  - pin number: ndre
-
-- Google Drive:
-      - link: https://drive.google.com/drive/folders/1DUpRySTKNTot_eLHn8lRxhlbmGhVLL6q?usp=sharing
-
--  Box Drive:
-  - link: https://duke.box.com/s/kfgnl5bfy7w75cngopskms8kbh5w1mvu
-
-
-
-### Note
-
-- Since the dataset contains 2,000 video clips extracted from about 1,000 unique videos, we have manually checked the train set and test set to avoid the data leakage between different parts. We suggest you to keep the original partition and only separate a validation set from the train set, but do not re-shuffle the entire dataset.
-- The data is compressed into separate blocks. You need to decompress it by following ways:
-  - Windows PC:  put all the files under the same folder, and then de-compress the first on e. All the data will be de-compressed automatically. (7Zip.exe is recommended for the compression tool)
-  - Linux: concatenate the separate file blocks together, and then use unzip to decompress it.  
+For privacy issues with the dataset, video files are currently not available on this website.
 
 
 
