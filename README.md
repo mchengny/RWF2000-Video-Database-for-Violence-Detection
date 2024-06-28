@@ -2,6 +2,12 @@
 
 
 
+### Reminder
+
+*Due to the privacy requirements,  video files are currently not available on this website.*
+
+
+
 ### Introduction
 
 With the increasing of surveillance cameras in modern cities, huge amount of videos can be collected. While there are insufficient human resource for  monitoring all the screens at  one time. 
